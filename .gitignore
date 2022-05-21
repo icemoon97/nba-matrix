@@ -1,0 +1,8 @@
+*.pyc
+
+# generated data files
+*.json
+*.csv
+
+# virtual environment
+env
